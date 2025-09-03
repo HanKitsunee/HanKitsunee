@@ -24,7 +24,7 @@
 
 ### I enjoy building and experimenting with different technologies. Here are some of the languages and tools I’ve worked with:
 
-[![Coding Experience](https://skillicons.dev/icons?i=html,css,js,cpp,java,py,wordpress,figma,vscode,git,github)
+![Coding Experience](https://skillicons.dev/icons?i=html,css,js,cpp,java,py,wordpress,figma,vscode,git,github)
 <br />
 <br />
 
